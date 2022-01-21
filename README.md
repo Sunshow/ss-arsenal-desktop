@@ -4,6 +4,13 @@
 
 Possibly use Flutter + Rust
 
+## Enable Flutter Desktop Support
+
+```bash
+flutter config --enable-windows-desktop
+flutter config --enable-macos-desktop
+```
+
 ## Roadmap
 
 ### v0.0.1
